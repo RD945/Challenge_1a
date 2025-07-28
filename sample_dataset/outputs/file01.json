@@ -1,0 +1,661 @@
+{
+  "title": "LTC_CLAIM_FORMS ",
+  "outline": [
+    {
+      "level": "H1",
+      "text": "Application form for grant of LTC advance",
+      "page": 1
+    }
+  ],
+  "content_sections": [
+    {
+      "type": "heading",
+      "content": "Application form for grant of LTC advance",
+      "page": 1,
+      "bbox": [
+        199.86000061035156,
+        106.07836151123047,
+        437.190673828125,
+        119.10208129882812
+      ],
+      "level": 1
+    },
+    {
+      "type": "paragraph",
+      "content": "1.  Name of the Government Servant",
+      "page": 1,
+      "bbox": [
+        70.0199966430664,
+        132.9924774169922,
+        243.4400634765625,
+        147.68702697753906
+      ],
+      "level": 0
+    },
+    {
+      "type": "paragraph",
+      "content": "2.  Designation",
+      "page": 1,
+      "bbox": [
+        70.0199966430664,
+        151.0488739013672,
+        149.32675170898438,
+        165.80189514160156
+      ],
+      "level": 0
+    },
+    {
+      "type": "paragraph",
+      "content": "3.",
+      "page": 1,
+      "bbox": [
+        70.0199966430664,
+        180.9252166748047,
+        82.12254333496094,
+        192.6769561767578
+      ],
+      "level": 0
+    },
+    {
+      "type": "paragraph",
+      "content": "Date of entering the Central Government",
+      "page": 1,
+      "bbox": [
+        95.99856567382812,
+        169.1637420654297,
+        296.01995849609375,
+        180.9154815673828
+      ],
+      "level": 0
+    },
+    {
+      "type": "paragraph",
+      "content": "Service",
+      "page": 1,
+      "bbox": [
+        95.99856567382812,
+        186.74266052246094,
+        129.7297821044922,
+        198.49440002441406
+      ],
+      "level": 0
+    },
+    {
+      "type": "paragraph",
+      "content": "4.  PAY + SI + NPA",
+      "page": 1,
+      "bbox": [
+        70.0199966430664,
+        204.8574676513672,
+        168.8944854736328,
+        219.55201721191406
+      ],
+      "level": 0
+    },
+    {
+      "type": "paragraph",
+      "content": "5.  Whether permanent or temporary",
+      "page": 1,
+      "bbox": [
+        70.0199966430664,
+        222.9138641357422,
+        244.10366821289062,
+        237.66688537597656
+      ],
+      "level": 0
+    },
+    {
+      "type": "paragraph",
+      "content": "6.  Home Town as recorded in the Service Book",
+      "page": 1,
+      "bbox": [
+        70.0199966430664,
+        241.09690856933594,
+        289.5272216796875,
+        252.84864807128906
+      ],
+      "level": 0
+    },
+    {
+      "type": "paragraph",
+      "content": "7.",
+      "page": 1,
+      "bbox": [
+        70.0199966430664,
+        265.0389404296875,
+        82.12254333496094,
+        276.7906799316406
+      ],
+      "level": 0
+    },
+    {
+      "type": "paragraph",
+      "content": "Whether wife / husband is employed and if",
+      "page": 1,
+      "bbox": [
+        95.99856567382812,
+        253.27745056152344,
+        295.9496765136719,
+        265.0292053222656
+      ],
+      "level": 0
+    },
+    {
+      "type": "paragraph",
+      "content": "so whether entitled to LTC",
+      "page": 1,
+      "bbox": [
+        95.99856567382812,
+        270.85638427734375,
+        212.8251190185547,
+        282.6081237792969
+      ],
+      "level": 0
+    },
+    {
+      "type": "paragraph",
+      "content": "8.",
+      "page": 1,
+      "bbox": [
+        70.0199966430664,
+        309.5611572265625,
+        82.12254333496094,
+        321.3128967285156
+      ],
+      "level": 0
+    },
+    {
+      "type": "paragraph",
+      "content": "Whether the concession is to be availed for",
+      "page": 1,
+      "bbox": [
+        95.99856567382812,
+        288.98095703125,
+        295.94781494140625,
+        300.7326965332031
+      ],
+      "level": 0
+    },
+    {
+      "type": "paragraph",
+      "content": "visiting home town and if so block for which",
+      "page": 1,
+      "bbox": [
+        95.99856567382812,
+        306.55987548828125,
+        296.0480651855469,
+        318.3116149902344
+      ],
+      "level": 0
+    },
+    {
+      "type": "paragraph",
+      "content": "LTC is to be availed.",
+      "page": 1,
+      "bbox": [
+        95.99856567382812,
+        324.19720458984375,
+        186.0504608154297,
+        335.948974609375
+      ],
+      "level": 0
+    },
+    {
+      "type": "paragraph",
+      "content": "9.",
+      "page": 1,
+      "bbox": [
+        70.0199966430664,
+        362.833740234375,
+        82.12254333496094,
+        374.58551025390625
+      ],
+      "level": 0
+    },
+    {
+      "type": "paragraph",
+      "content": "(a) If the concession is to visit anywhere in",
+      "page": 1,
+      "bbox": [
+        95.99856567382812,
+        342.25360107421875,
+        296.0063171386719,
+        354.0053405761719
+      ],
+      "level": 0
+    },
+    {
+      "type": "paragraph",
+      "content": "India, the place to be visited.",
+      "page": 1,
+      "bbox": [
+        95.99856567382812,
+        359.89093017578125,
+        224.38401794433594,
+        371.6427001953125
+      ],
+      "level": 0
+    },
+    {
+      "type": "paragraph",
+      "content": "(b) Block for which to be availed.",
+      "page": 1,
+      "bbox": [
+        95.99856567382812,
+        377.4698486328125,
+        241.2914581298828,
+        389.2215881347656
+      ],
+      "level": 0
+    },
+    {
+      "type": "paragraph",
+      "content": "10.",
+      "page": 1,
+      "bbox": [
+        70.0199966430664,
+        416.174560546875,
+        88.30438995361328,
+        427.92633056640625
+      ],
+      "level": 0
+    },
+    {
+      "type": "paragraph",
+      "content": "Single  rail  fare/bus  fare  from  the",
+      "page": 1,
+      "bbox": [
+        95.99856567382812,
+        395.59442138671875,
+        296.081298828125,
+        407.3461608886719
+      ],
+      "level": 0
+    },
+    {
+      "type": "paragraph",
+      "content": "headquarters to home town/place of visit by",
+      "page": 1,
+      "bbox": [
+        95.99856567382812,
+        413.17327880859375,
+        296.0082092285156,
+        424.925048828125
+      ],
+      "level": 0
+    },
+    {
+      "type": "paragraph",
+      "content": "shortest route.",
+      "page": 1,
+      "bbox": [
+        95.99856567382812,
+        430.752197265625,
+        161.98764038085938,
+        442.5039367675781
+      ],
+      "level": 0
+    },
+    {
+      "type": "paragraph",
+      "content": "11.",
+      "page": 1,
+      "bbox": [
+        70.0199966430664,
+        498.6121826171875,
+        88.30438995361328,
+        510.3639221191406
+      ],
+      "level": 0
+    },
+    {
+      "type": "paragraph",
+      "content": "Persons in respect of whom LTC is proposed to be availed.",
+      "page": 1,
+      "bbox": [
+        95.99856567382812,
+        448.93524169921875,
+        350.760986328125,
+        460.6869812011719
+      ],
+      "level": 0
+    },
+    {
+      "type": "paragraph",
+      "content": "S.No  Name  Age  Relationship  1.  2.  3.  4.",
+      "page": 1,
+      "bbox": [
+        95.99856567382812,
+        464.05853271484375,
+        508.57159423828125,
+        524.7076416015625
+      ],
+      "level": 0
+    },
+    {
+      "type": "paragraph",
+      "content": "5.  6.",
+      "page": 1,
+      "bbox": [
+        103.62838745117188,
+        529.4532470703125,
+        115.7309341430664,
+        553.4439086914062
+      ],
+      "level": 0
+    },
+    {
+      "type": "paragraph",
+      "content": "12.  Amount of advance required.  Rs.",
+      "page": 1,
+      "bbox": [
+        70.02969360351562,
+        561.1322631835938,
+        320.7657775878906,
+        578.7598876953125
+      ],
+      "level": 0
+    },
+    {
+      "type": "paragraph",
+      "content": "I declare that the particulars furnished above are true and correct to the best of my knowledge.  I  undertake to produce the tickets for the outward journey within ten days of receipt of the advance.",
+      "page": 1,
+      "bbox": [
+        70.0296630859375,
+        596.8357543945312,
+        573.1749267578125,
+        620.2904663085938
+      ],
+      "level": 0
+    },
+    {
+      "type": "paragraph",
+      "content": "In the event of cancellation of the journey or if I fail to produce the tickets within ten days of receipt of  advance, I undertake to refund the entire advance in one lump sum.",
+      "page": 1,
+      "bbox": [
+        70.0394287109375,
+        632.061767578125,
+        573.1671142578125,
+        655.574951171875
+      ],
+      "level": 0
+    },
+    {
+      "type": "paragraph",
+      "content": "Date",
+      "page": 1,
+      "bbox": [
+        70.0394287109375,
+        678.9810180664062,
+        95.879638671875,
+        690.7327270507812
+      ],
+      "level": 0
+    },
+    {
+      "type": "paragraph",
+      "content": "Signature of Government Servant.",
+      "page": 1,
+      "bbox": [
+        403.0445556640625,
+        690.7425537109375,
+        572.97509765625,
+        702.4942626953125
+      ],
+      "level": 0
+    }
+  ],
+  "full_text": "Application form for grant of LTC advance \n1. \nName of the Government Servant \n2. \nDesignation \n3. \nDate of entering the Central Government \nService \n4. \nPAY + SI + NPA \n5. \nWhether permanent or temporary \n6. \nHome Town as recorded in the Service Book \n7. \nWhether wife / husband is employed and if \nso whether entitled to LTC \n8. \nWhether the concession is to be availed for \nvisiting home town and if so block for which \nLTC is to be availed. \n9. \n(a) If the concession is to visit anywhere in \nIndia, the place to be visited. \n(b) Block for which to be availed. \n10. \nSingle \nrail \nfare/bus \nfare \nfrom \nthe \nheadquarters to home town/place of visit by \nshortest route. \n11. \nPersons in respect of whom LTC is proposed to be availed. \nS.No \nName \nAge \nRelationship \n1. \n2. \n3. \n4. \n5. \n6. \n12. Amount of advance required. \nRs. \nI declare that the particulars furnished above are true and correct to the best of my knowledge.  I \nundertake to produce the tickets for the outward journey within ten days of receipt of the advance. \nIn the event of cancellation of the journey or if I fail to produce the tickets within ten days of receipt of \nadvance, I undertake to refund the entire advance in one lump sum. \nDate \nSignature of Government Servant.",
+  "tables": [
+    {
+      "page": 1,
+      "data": [
+        [
+          "1.",
+          "Name of the Government Servant",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "2.",
+          "Designation",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "3.",
+          "Date of entering the Central Government\nService",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "4.",
+          "PAY + SI + NPA",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "5.",
+          "Whether permanent or temporary",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "6.",
+          "Home Town as recorded in the Service Book",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "7.",
+          "Whether wife / husband is employed and if\nso whether entitled to LTC",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "8.",
+          "Whether the concession is to be availed for\nvisiting home town and if so block for which\nLTC is to be availed.",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "9.",
+          "(a) If the concession is to visit anywhere in\nIndia, the place to be visited.\n(b) Block for which to be availed.",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "10.",
+          "Single rail fare/bus fare from the\nheadquarters to home town/place of visit by\nshortest route.",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "11.",
+          "Persons in respect of whom LTC is proposed to be availed.",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "S.No",
+          "Name",
+          "",
+          "Age",
+          "Relationship"
+        ],
+        [
+          "",
+          "1.",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "2.",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "3.",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "4.",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "5.",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "6.",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "12.",
+          "Amount of advance required.",
+          "",
+          "Rs.",
+          "",
+          ""
+        ]
+      ]
+    }
+  ],
+  "form_fields": [],
+  "static_form_fields": [
+    {
+      "field_number": 1,
+      "label": "Name of the Government Servant",
+      "type": "text_input",
+      "required": true
+    },
+    {
+      "field_number": 2,
+      "label": "Designation",
+      "type": "text_input",
+      "required": true
+    },
+    {
+      "field_number": 3,
+      "label": "Date of entering the Central Government",
+      "type": "text_input",
+      "required": true
+    },
+    {
+      "field_number": 4,
+      "label": "PAY + SI + NPA",
+      "type": "text_input",
+      "required": true
+    },
+    {
+      "field_number": 5,
+      "label": "Whether permanent or temporary",
+      "type": "text_input",
+      "required": true
+    },
+    {
+      "field_number": 6,
+      "label": "Home Town as recorded in the Service Book",
+      "type": "text_input",
+      "required": true
+    },
+    {
+      "field_number": 7,
+      "label": "Whether wife / husband is employed and if",
+      "type": "text_input",
+      "required": true
+    },
+    {
+      "field_number": 8,
+      "label": "Whether the concession is to be availed for",
+      "type": "text_input",
+      "required": true
+    },
+    {
+      "field_number": 9,
+      "label": "(a) If the concession is to visit anywhere in",
+      "type": "text_input",
+      "required": true
+    },
+    {
+      "field_number": 10,
+      "label": "Single",
+      "type": "text_input",
+      "required": true
+    },
+    {
+      "field_number": 11,
+      "label": "Persons in respect of whom LTC is proposed to be availed.",
+      "type": "text_input",
+      "required": true
+    },
+    {
+      "field_number": 1,
+      "label": "2.",
+      "type": "text_input",
+      "required": true
+    },
+    {
+      "field_number": 3,
+      "label": "4.",
+      "type": "text_input",
+      "required": true
+    },
+    {
+      "field_number": 5,
+      "label": "6.",
+      "type": "text_input",
+      "required": true
+    },
+    {
+      "field_number": 12,
+      "label": "Amount of advance required.",
+      "type": "text_input",
+      "required": true
+    }
+  ]
+}

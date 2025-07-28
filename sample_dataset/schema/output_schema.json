@@ -1,0 +1,81 @@
+{
+  "$schema": "http://json-schema.org/draft-04/schema#",
+  "type": "object",
+  "properties": {
+    "title": { "type": "string" },
+    "outline": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "properties": {
+          "level": { "type": "string" },
+          "text": { "type": "string" },
+          "page": { "type": "integer" }
+        },
+        "required": ["level", "text", "page"]
+      }
+    },
+    "content_sections": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "properties": {
+          "type": { "type": "string" },
+          "content": { "type": "string" },
+          "page": { "type": "integer" },
+          "level": { "type": "integer" },
+          "bbox": {
+            "type": "array",
+            "items": { "type": "number" }
+          }
+        },
+        "required": ["type", "content", "page"]
+      }
+    },
+    "full_text": { "type": "string" },
+    "tables": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "properties": {
+          "page": { "type": "integer" },
+          "data": {
+            "type": "array",
+            "items": {
+              "type": "array",
+              "items": { "type": ["string", "null"] }
+            }
+          }
+        },
+        "required": ["page", "data"]
+      }
+    },
+    "form_fields": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "properties": {
+          "name": { "type": "string" },
+          "type": { "type": "string" },
+          "value": { "type": "string" },
+          "page": { "type": "integer" }
+        },
+        "required": ["name", "type", "page"]
+      }
+    },
+    "static_form_fields": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "properties": {
+          "field_number": { "type": "integer" },
+          "label": { "type": "string" },
+          "type": { "type": "string" },
+          "required": { "type": "boolean" }
+        },
+        "required": ["field_number", "label"]
+      }
+    }
+  },
+  "required": ["title", "outline", "full_text"]
+}
